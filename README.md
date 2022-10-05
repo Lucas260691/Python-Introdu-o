@@ -13,3 +13,4 @@ Features
 - [x] Estruturas de repetição
 - [x] Estruturas condicionais
 - [x] Funções
+- [X] Exercícios
